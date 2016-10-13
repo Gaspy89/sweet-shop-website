@@ -1,15 +1,10 @@
 <!doctype html>
 
-<html lang="en">
+<html lang="hu">
 <head>
   <meta charset="utf-8">
-
-  <title>Sweet Shop</title>
-  
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
-
+  <title>Cukrászda</title>
 </head>
-
 <body>
   
 </body>
