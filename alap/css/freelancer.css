@@ -106,7 +106,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #c61747;
+  background: #A14A76;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -139,7 +139,7 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li a:hover {
   color: white;
-  background: #e13161;
+  background: #F786AA;
   outline: none;
 }
 .navbar-custom .navbar-nav li a:focus,
